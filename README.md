@@ -1,0 +1,2 @@
+# AddQuadCurveExampleCoreGraphics
+AddQuadCurveExampleCoreGraphics
